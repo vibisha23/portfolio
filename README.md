@@ -1,4 +1,4 @@
-# HR Workflow Designer Prototype
+# Portfolio
 
 A React + React Flow prototype for visually designing internal HR workflows such as onboarding, leave approval, and document verification.
 
